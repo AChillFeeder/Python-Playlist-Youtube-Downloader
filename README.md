@@ -2,9 +2,9 @@
 a small python scripts that allows downloading videos and playlists from command line
 
 
-
 usage:  python downloader.py [mp3] [verbose]
-example: python downloader.py True False => will try to download in mp3 silently
+example: python downloader.py True False 
+          => will try to download in mp3 silently
 
 [] args are optional, default are: mp3=True and verbose=False
 
